@@ -1,1 +1,2 @@
 fuckguy = input("请输入你的文本")
+print("roll the round")  
